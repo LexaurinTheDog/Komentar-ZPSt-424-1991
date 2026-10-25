@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (citační bloky v kapitolách, znění k 1. 1. 2026).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři zatím žádný takový závěr není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři jen u § 16a (2 karty Nejvyššího soudu ve složce [judikatura/](judikatura/), doplněné strojově při publikaci z místních zdrojů).
 - **Syntéza:** autorské propojení textu, systematiky, ústavního rámce a výkladu v kapitolách.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji označují jako „výkladovou otázku“.
 
-Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly**, **41 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 23 včetně vložených § 16a, § 17a, § 17b, § 19a až § 19l, § 20a, § 20b a § 21a), **8 zásad** v [ZASADY.md](ZASADY.md), **54 modalitních fragmentů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) a **0 místních karet rozhodnutí**. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly**, **41 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 23 včetně vložených § 16a, § 17a, § 17b, § 19a až § 19l, § 20a, § 20b a § 21a), **8 zásad** v [ZASADY.md](ZASADY.md), **54 modalitních fragmentů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) a **2 místní karty rozhodnutí** Nejvyššího soudu, obě k § 16a ([judikatura/](judikatura/)). Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -184,7 +184,7 @@ Zákon obsahuje čtyři samostatné procesní linie, každou s vlastní příslu
 |---|---|---|---|
 | vznik a změna stanov | Ministerstvo vnitra; krajský soud (žaloba podle § 7 odst. 4); přezkum odmítnutí (§ 8 odst. 5) | upozornění do 5 dnů, fikce bezvadnosti po 10 dnech, žaloba do 15 dnů, rozhodnutí do 15 dnů od zahájení, fikce registrace po 30 dnech, opravný prostředek do 30 dnů; změna stanov do 15 dnů od schválení | [§ 6–8, § 11](01-uvod-vznik-zanik-soudni-ochrana.md) |
 | rejstřík, zrušení a zánik | Ministerstvo vnitra | oznámení do 15 dnů (§ 10), oznámení likvidátorem do 5 dnů (§ 13 odst. 4), návrh na výmaz do 10 dnů (§ 12 odst. 2), orgány do 6 měsíců (§ 6 odst. 5) | [§ 9–13](01-uvod-vznik-zanik-soudni-ochrana.md) |
-| pozastavení, rozpuštění, obnovení; ochrana člena | Nejvyšší správní soud (§ 15); okresní soud (§ 16a) | vláda do 30 dnů od podnětu, poté prezident; pozastavení nejdéle 1 rok; předvolební ochrana do 10. dne po volbách; člen do 6 měsíců, rozhodčí orgán 30 dnů | [§ 14–16a](01-uvod-vznik-zanik-soudni-ochrana.md) |
+| pozastavení, rozpuštění, obnovení; ochrana člena | Nejvyšší správní soud (§ 15); krajský soud (§ 16a — statusová věc podle § 85 písm. a) z. ř. s. podle karty [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md)) | vláda do 30 dnů od podnětu, poté prezident; pozastavení nejdéle 1 rok; předvolební ochrana do 10. dne po volbách; člen do 6 měsíců, rozhodčí orgán 30 dnů | [§ 14–16a](01-uvod-vznik-zanik-soudni-ochrana.md) |
 | hospodaření, dohled, příspěvky | Úřad, Kolegium Úřadu, Ministerstvo financí | vrácení daru do 1. dubna, VFZ do 1. dubna, výzva do 15. dubna, doplnění nejméně 15 kalendářních dnů, sdělení MF do 31. května / 10 dnů, splátky do 15. 4., 30. 6., 15. 10. a 1. 12., oznámení 30 / 20 dnů; Kolegium nejméně jednou za 4 týdny, informace do 14 dnů | [§ 18, § 19e–19h](02-hospodareni-urad.md); [§ 20a, § 20b](03-statni-prispevky-prechodna-zaverecna.md) |
 
 Místně vyložené procesní body:
@@ -196,6 +196,7 @@ Místně vyložené procesní body:
 - [§ 10 a § 13 odst. 4](01-uvod-vznik-zanik-soudni-ochrana.md): „vztah obou lhůt je třeba řešit tak, aby byla dodržena kratší“.
 - [§ 15](01-uvod-vznik-zanik-soudni-ochrana.md): „soud rozhoduje podle skutkového stavu v době svého rozhodnutí (§ 96 s.ř.s.)“; k předvolební ochraně: „návrh podaný v tomto období je nepřípustný (s výjimkou návrhu na obnovení činnosti); byl-li podán dříve, soud řízení na tuto dobu přeruší“.
 - [§ 16a](01-uvod-vznik-zanik-soudni-ochrana.md): „Zákon nestanoví, že by žádost o nápravu stavěla běh šestiměsíční lhůty podle odst. 1“.
+- [§ 16a](01-uvod-vznik-zanik-soudni-ochrana.md) — příslušnost podle karty NS 27 Cdo 1495/2017: „Návrh je proto třeba podat u krajského soudu a počítat s režimem zákona o zvláštních řízeních soudních“.
 - [§ 19f odst. 7](02-hospodareni-urad.md): „O odvolání (rozkladu) proti rozhodnutí Úřadu, např. o přestupku, tak rozhoduje Kolegium na návrh rozkladové komise.“
 - [§ 20a odst. 1](03-statni-prispevky-prechodna-zaverecna.md): „Z časové posloupnosti plyne, že výplata první čtvrtletní splátky je fakticky závislá na včasnosti tohoto sdělení.“
 - [§ 20b](03-statni-prispevky-prechodna-zaverecna.md): „Lhůty v odst. 2 a 3 směřují vůči orgánům veřejné moci a lze je pokládat za pořádkové“.
@@ -203,10 +204,10 @@ Místně vyložené procesní body:
 **Hloubkový test.**
 - Sestavte časovou osu registrace: den doručení návrhu → 5. a 10. den (upozornění / fikce bezvadnosti) → den zahájení řízení (§ 7 odst. 5) → 15. den (rozhodnutí) → 30. den (fikce registrace, rozhoduje doručení odmítnutí) → 30 dnů pro přezkum odmítnutí.
 - U každé lhůty určete, zda je propadná (např. § 7 odst. 3, § 8 odst. 4, § 16a odst. 1, § 18 odst. 3), pořádková (§ 7 odst. 2 v rozsahu 5 dnů, § 20b odst. 2 a 3), nebo minimální zákonná mez pro orgán (§ 19h odst. 4 — nejméně 15 kalendářních dnů).
-- U rozhodnutí určete příslušnost: Ministerstvo vnitra × krajský soud × Nejvyšší správní soud × okresní soud × Úřad a Kolegium × Ministerstvo financí; u § 8 odst. 5 a u úkonů Ministerstva financí podle § 20a výslovně uveďte, že procesní cesta je otevřenou otázkou.
+- U rozhodnutí určete příslušnost: Ministerstvo vnitra × krajský soud (§ 7 odst. 4 podle s.ř.s.; § 16a jako statusová věc podle z. ř. s.) × Nejvyšší správní soud × Úřad a Kolegium × Ministerstvo financí; u § 8 odst. 5 a u úkonů Ministerstva financí podle § 20a výslovně uveďte, že procesní cesta je otevřenou otázkou.
 - U předvolební ochrany (§ 15 odst. 2) zaznamenejte den vyhlášení voleb, poslední den voleb a důvod návrhu (rozpor s § 4 ochranu prolamuje).
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 6–16a](01-uvod-vznik-zanik-soudni-ochrana.md); [§ 18 odst. 3, § 19e, § 19f, § 19g, § 19h](02-hospodareni-urad.md); [§ 20a, § 20b, § 21](03-statni-prispevky-prechodna-zaverecna.md)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 6–16a](01-uvod-vznik-zanik-soudni-ochrana.md); [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md); [§ 18 odst. 3, § 19e, § 19f, § 19g, § 19h](02-hospodareni-urad.md); [§ 20a, § 20b, § 21](03-statni-prispevky-prechodna-zaverecna.md)
 
 ## 7. Rozhodné skutečnosti, dokazování a riziko nejistoty
 
@@ -245,7 +246,7 @@ Zákon používá odstupňovanou soustavu následků:
 | přestupky | § 19i, § 19j, § 19k | pokuty do 200 000 Kč, do 2 000 000 Kč, dvojnásobek hodnoty daru nebo propadnutí věci |
 | finanční následky | § 20 odst. 2, § 20a odst. 2 | ztráta nebo pozastavení státních příspěvků |
 | volební a další důsledky | § 16 | odkaz na zvláštní zákony (zejména zákon č. 247/1995 Sb.) |
-| soudní ochrana člena | § 16a | určovací výrok okresního soudu |
+| soudní ochrana člena | § 16a | výrok krajského soudu, jímž při rozporu se zákonem nebo stanovami zpravidla vysloví neplatnost rozhodnutí orgánu strany (karty [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md) a [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md)) |
 
 Sazby přestupků strany a hnutí stanoví § 19j odst. 3: „Za přestupek podle odstavce 2 písm. a) až d) a f) lze uložit pokutu do 200 000 Kč, za přestupek podle odstavce 1 nebo odstavce 2 písm. e) pokutu do 2 000 000 Kč a za přestupek podle odstavce 2 písm. g) pokutu ve výši rovnající se dvojnásobku hodnoty daru nebo jiného bezúplatného plnění nebo propadnutí věci.“
 
@@ -257,7 +258,7 @@ Místně zachycené mezery v sankční soustavě (co zákon **nepostihuje**):
 - [§ 19k](02-hospodareni-urad.md): „Zákon nesankcionuje institut za porušení povinnosti uveřejňovat výsledky činnosti (§ 17 odst. 5) ani zákazu působit jako škola (§ 17 odst. 6).“
 - [§ 16](01-uvod-vznik-zanik-soudni-ochrana.md): „§ 16 sám žádný důsledek nestanoví — nelze z něj dovozovat sankce bez opory ve zvláštním zákoně.“
 
-Ochrana proti následkům: žaloba proti rozhodnutí Úřadu — „Podání žaloby proti rozhodnutí Úřadu má odkladný účinek.“ (§ 19l odst. 2); moderační hledisko § 19l odst. 1 (dopad pokuty na existenci subjektu); rozklad ke Kolegiu (§ 19f odst. 7); řízení před Nejvyšším správním soudem s předvolební ochranou (§ 15); u Ministerstva financí: „Zákon neurčuje formu, v níž Ministerstvo financí o žádosti, pozastavení nebo úpravě splátky jedná, ani zvláštní prostředek ochrany.“ U § 16a: „Rozhodnutí je určovací; zákon neupravuje, zda se jím rozhodnutí orgánu ruší“.
+Ochrana proti následkům: žaloba proti rozhodnutí Úřadu — „Podání žaloby proti rozhodnutí Úřadu má odkladný účinek.“ (§ 19l odst. 2); moderační hledisko § 19l odst. 1 (dopad pokuty na existenci subjektu); rozklad ke Kolegiu (§ 19f odst. 7); řízení před Nejvyšším správním soudem s předvolební ochranou (§ 15); u Ministerstva financí: „Zákon neurčuje formu, v níž Ministerstvo financí o žádosti, pozastavení nebo úpravě splátky jedná, ani zvláštní prostředek ochrany.“ U § 16a soud podle karty NS 27 Cdo 1495/2017 při rozporu napadeného rozhodnutí se zákonem nebo stanovami „vysloví (zpravidla) jeho neplatnost“; u vyloučení člena podle karty NS 27 Cdo 2228/2017 „vysloví neplatnost všech rozhodnutí, jimiž orgány politické strany rozhodly o jeho vyloučení (o zrušení jeho členství)“.
 
 Vazba hospodářských porušení na existenci strany: „Rozpor činnosti s § 19h (stejně jako s §§ 17 až 18) je i důvodem, pro který může soud činnost strany pozastavit (§ 14 odst. 1)“; u zpětné výplaty platí: „Vyústí-li řízení v rozpuštění strany a hnutí, žádný z důvodů zpětné výplaty nenastane.“
 
@@ -267,26 +268,33 @@ Vazba hospodářských porušení na existenci strany: „Rozpor činnosti s § 
 - U pokuty právnické osobě vždy výslovně vypořádejte § 19l odst. 1; u pevné sankce podle § 19j odst. 3 popište, jak se hledisko projeví (volba mezi pokutou a propadnutím věci).
 - Nedovozujte sankci tam, kde ji kapitoly výslovně postrádají (§ 10, § 17 odst. 5 a 6, § 17b odst. 2); mezeru označte jako slabé místo úpravy, nikoli jako implicitní skutkovou podstatu.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 8, § 10, § 13, § 14, § 16, § 16a](01-uvod-vznik-zanik-soudni-ochrana.md); [§ 17, § 17b, § 18, § 19f, § 19i–19l](02-hospodareni-urad.md); [§ 20 a § 20a](03-statni-prispevky-prechodna-zaverecna.md)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní mapa právních modalit](PRAVNI-MODALITY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [§ 8, § 10, § 13, § 14, § 16, § 16a](01-uvod-vznik-zanik-soudni-ochrana.md); [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md); [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md); [§ 17, § 17b, § 18, § 19f, § 19i–19l](02-hospodareni-urad.md); [§ 20 a § 20a](03-statni-prispevky-prechodna-zaverecna.md)
 
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje místní karty rozhodnutí: **0 karet**, soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 rozpoznaných citací rozhodovací praxe se spisovou značkou**. Úvod to uvádí výslovně: „Lokální materiály repozitáře neobsahují judikatorní karty k tomuto zákonu; komentář proto neuvádí konkrétní soudní rozhodnutí ani spisové značky“. Poznámka k metodě dodává, že místa, kde text připouští více výkladů, jsou označena jako výkladová otázka s argumenty pro jednotlivé varianty. Rovněž [ZASADY.md](ZASADY.md) uvádějí, že žádná jejich citace není citací soudního rozhodnutí.
+Složka [judikatura/](judikatura/) obsahuje **2 karty** Nejvyššího soudu (kat. A), obě k § 16a. Karty byly doplněny strojově při publikaci z místních zdrojů a jejich právní věty jsou vloženy do oddílu § 16a kapitoly 01, jehož výklad z nich vychází:
 
-Složka `judikatura/` s místními kartami se do repozitáře doplní strojově později; do té doby je judikatorní vrstva **evidovanou mezerou**, nikoli negativním zjištěním, že rozhodovací praxe neexistuje.
+- [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md) z 27. 2. 2019 — řízení podle § 16a odst. 1 „je řízením ve statusových věcech právnických osob ve smyslu § 85 písm. a) z. ř. s., v němž jsou v prvním stupni věcně příslušné krajské soudy“; shledá-li soud rozpor napadeného rozhodnutí se zákonem nebo stanovami, „vysloví (zpravidla) jeho neplatnost“; § 16a odst. 1 „brání tomu, aby byla platnost rozhodnutí orgánu politické strany (hnutí) posuzována v jiném řízení“ — tedy ani v řízení podle § 80 o. s. ř., ani jako předběžná otázka, neurčuje-li zvláštní právní předpis jinak; požadavek vyčerpání nápravy u rozhodčího orgánu (§ 16a odst. 2) je „hmotněprávní podmínkou uplatnění práva na soudní ochranu“.
+- [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md) z 26. 3. 2019 — u návrhu, „jímž se dotčený člen domáhá soudní ochrany proti rozhodnutí orgánu politické strany o vyloučení člena (o zrušení jeho členství)“, soud při důvodnosti návrhu „vysloví neplatnost všech rozhodnutí, jimiž orgány politické strany rozhodly o jeho vyloučení (o zrušení jeho členství)“, popř. za analogického použití § 242 o. z. rozhodne, že vyloučení je neplatné; neplatnost jen konečného rozhodnutí lze vyslovit, jen plyne-li ze stanov, že tím bez dalšího pozbývají účinky i všechna předchozí rozhodnutí o vyloučení.
 
-Kapitoly přesto obsahují procesní a institucionální údaje, na které se budoucí karty budou vázat: příslušnost Nejvyššího správního soudu (§ 15, § 94 až 96 s.ř.s.), řízení o určení bezvadnosti návrhu (§ 7 odst. 4), přezkum odmítnutí registrace (§ 8 odst. 5), řízení podle § 16a před okresním soudem, žaloby proti rozhodnutím Úřadu (§ 19l odst. 2) a otázka přezkumu úkonů Ministerstva financí (§ 20a).
+Ostatních 40 komentovaných ustanovení místní judikaturu nemá; kapitoly 02 a 03 neobsahují žádnou citaci rozhodnutí se spisovou značkou. Autorský výklad těchto ustanovení (i [ZASADY.md](ZASADY.md) mimo zásadu 5) z karet nevychází; úvod to shrnuje větou: „Ostatní ustanovení zákona místní judikaturu nemají a jejich autorský výklad z karet nevychází“.
 
-Prioritní okruhy pro doplnění karet (podle místně označených výkladových otázek): rozsah důvodů rozpuštění a pozastavení a proporcionalita (§ 4, § 13 odst. 5, § 14 odst. 1); procesní cesta podle § 8 odst. 5; přezkum vnitrostranických rozhodnutí mimo § 16a; dělení hotovostních plateb (§ 17a odst. 1); okamžik posouzení podmínek u zakázaných dárců (§ 18 odst. 1 písm. j) a k)); vztah § 19j odst. 3 a § 19l odst. 1; dodatečné předložení výroční finanční zprávy a nárok na příspěvek (§ 20 odst. 2, § 20a odst. 4).
+**Hranice použitelnosti karet.**
+- Obě karty vykládají jen § 16a. Pro ostatní soudní řízení podle zákona — určení bezvadnosti návrhu (§ 7 odst. 4), přezkum odmítnutí registrace (§ 8 odst. 5), rozpuštění a pozastavení činnosti před Nejvyšším správním soudem (§ 15), žaloby proti rozhodnutím Úřadu (§ 19l odst. 2) a úkony Ministerstva financí (§ 20a) — z nich nic neplyne.
+- Karta NS 27 Cdo 2228/2017 se týká jen vyloučení člena (zrušení členství). K sestavení kandidátky, disciplinárním opatřením ani k jiným vnitrostranickým rozhodnutím bez vazby na rejstřík žádná karta nic neříká; kapitola 01 to ponechává otevřené: „Zda stejnou cestou lze napadnout i jiná vnitrostranická rozhodnutí bez vazby na rejstřík (sestavení kandidátky, disciplinární opatření), místní karty neřeší; jde o výkladovou otázku.“
+- Karta NS 27 Cdo 1495/2017 formuluje výrok o neplatnosti s výhradou „zpravidla“ a vyloučení jiného řízení s výhradou zvláštního právního předpisu; obě výhrady je třeba při přenosu závěru zachovat.
+- Doslovný text § 16a odst. 1 a 3 (okresní soud, občanský soudní řád) karta NS 27 Cdo 1495/2017 v otázce příslušnosti a procesního režimu překonává; kapitola 01: „Návrh je proto třeba podat u krajského soudu a počítat s režimem zákona o zvláštních řízeních soudních“.
+
+Prioritní okruhy, které místní karty nepokrývají (podle místně označených výkladových otázek): rozsah důvodů rozpuštění a pozastavení a proporcionalita (§ 4, § 13 odst. 5, § 14 odst. 1); procesní cesta podle § 8 odst. 5; přezkum vnitrostranických rozhodnutí bez vazby na rejstřík jiných než vyloučení člena (sestavení kandidátky, disciplinární opatření); dělení hotovostních plateb (§ 17a odst. 1); okamžik posouzení podmínek u zakázaných dárců (§ 18 odst. 1 písm. j) a k)); vztah § 19j odst. 3 a § 19l odst. 1; dodatečné předložení výroční finanční zprávy a nárok na příspěvek (§ 20 odst. 2, § 20a odst. 4).
 
 **Hloubkový test.**
-- Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; u rozhodnutí o rozpuštění zvlášť zaznamenejte, zda šlo o rozpor programu, nebo činnosti.
+- U obou karet k § 16a (a u každé případně doplněné karty) oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; u karty NS 27 Cdo 2228/2017 zvlášť zaznamenejte, že se týká vyloučení člena a vícestupňového rozhodování orgánů strany podle stanov.
 - Ověřte, zda soud vykládal stejné znění — zejména u § 17 až § 20b, které byly opakovaně novelizovány, a u § 8 odst. 5, jehož procesní kontext se změnil zavedením soudního řádu správního.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. konkrétní výše pokuty ve vztahu k příjmům strany podle § 19l odst. 1).
-- Do doplnění karet žádný závěr v tomto souboru ani ve [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) neoznačujte jako judikaturou podložený; výklad kapitol je syntézou z textu a systematiky.
+- Jako judikaturou podložené označujte v tomto souboru i ve [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) jen závěry k § 16a převzaté z obou karet; výklad ostatních ustanovení je syntézou z textu a systematiky.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní zásady](ZASADY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [úvod — metodická poznámka](00-uvod.md); [§ 7, § 8, § 15, § 16a](01-uvod-vznik-zanik-soudni-ochrana.md); [§ 19l](02-hospodareni-urad.md); [§ 20a](03-statni-prispevky-prechodna-zaverecna.md)
+**Místní opora.** [judikatura/](judikatura/); [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md); [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md); [rejstřík komentáře](INDEX.md); [místní zásady](ZASADY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [úvod — metodická poznámka](00-uvod.md); [§ 7, § 8, § 15, § 16a](01-uvod-vznik-zanik-soudni-ochrana.md); [§ 19l](02-hospodareni-urad.md); [§ 20a](03-statni-prispevky-prechodna-zaverecna.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -302,7 +310,7 @@ Kapitoly obsahují **41 oddílů G. Protiargumenty a rizika**, **48 výslovných
 - [§ 9](01-uvod-vznik-zanik-soudni-ochrana.md): „Zda se třetí osoba může dovolat obsahu rejstříku stran (který zákon nespojuje s výslovnou zásadou materiální publicity), je výkladovou otázkou“; dále „rozsah zpřístupnění při dálkovém přístupu je výkladovou otázkou“.
 - [§ 11](01-uvod-vznik-zanik-soudni-ochrana.md): „Zda lze opožděný návrh odmítnout jen pro opožděnost, je výkladovou otázkou — převažuje argument, že důvody odmítnutí jsou v § 8 odst. 1 vymezeny taxativně.“
 - [§ 14 odst. 1](01-uvod-vznik-zanik-soudni-ochrana.md): rozpor se stanovami jako důvod pozastavení „by měl být vykládán restriktivně (jen závažné a trvající porušení stanov)“.
-- [§ 16a](01-uvod-vznik-zanik-soudni-ochrana.md): „Jiná vnitrostranická rozhodnutí (vyloučení člena, sestavení kandidátky, disciplinární opatření) tímto ustanovením chráněna nejsou; zda a jak je lze přezkoumat podle obecných předpisů, je výkladovou otázkou.“ Totéž platí pro účinek určovacího výroku na vyznačený údaj.
+- [§ 16a](01-uvod-vznik-zanik-soudni-ochrana.md): vyloučení člena je s oporou v kartě NS 27 Cdo 2228/2017 pod § 16a zahrnuto — „Ochranu proti vyloučení proto nelze z § 16a vylučovat.“ Otevřená zůstává jen otázka dalších rozhodnutí: „Zda stejnou cestou lze napadnout i jiná vnitrostranická rozhodnutí bez vazby na rejstřík (sestavení kandidátky, disciplinární opatření), místní karty neřeší; jde o výkladovou otázku.“
 
 *Kapitola 2 — hospodaření a Úřad*
 - [§ 17 odst. 8](02-hospodareni-urad.md): „Výkladovou otázkou je, zda nevýhodné podmínky úvěru (např. bezúročnost) mohou představovat bezúplatné plnění podléhající § 18.“
@@ -325,9 +333,9 @@ Kapitoly obsahují **41 oddílů G. Protiargumenty a rizika**, **48 výslovných
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého výkladu; u § 20 odst. 2 tedy nejen systematický argument pro zpětnou výplatu, ale i doslovný argument pro zánik nároku a jeho oporu v rovnosti soutěže (včasnost jako stejná podmínka pro všechny).
-- U každé varianty uveďte textový, systematický, ústavní (čl. 5 Ústavy, čl. 20 a 22 Listiny) a účelový argument; judikatorní argument zatím chybí (vrstva 9).
+- U každé varianty uveďte textový, systematický, ústavní (čl. 5 Ústavy, čl. 20 a 22 Listiny) a účelový argument; judikatorní argument je v místním korpusu k dispozici jen u § 16a (vrstva 9).
 - Porovnejte praktické následky: např. u § 19f odst. 3 může výklad podle zákonného počtu ochromit Kolegium, výklad podle obsazených míst oslabit legitimitu rozhodnutí.
-- Není-li spor místními prameny řešitelný, zachovejte varianty a doporučte postup, který obstojí v obou (kapitola 1 to činí u § 8 odst. 5 a § 16a, kapitola 2 u § 18 odst. 4).
+- Není-li spor místními prameny řešitelný, zachovejte varianty a doporučte postup, který obstojí v obou (kapitola 1 to činí u § 8 odst. 5, kapitola 2 u § 18 odst. 4).
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [místní zásady](ZASADY.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [oddíly G kapitoly 1](01-uvod-vznik-zanik-soudni-ochrana.md); [oddíly G kapitoly 2](02-hospodareni-urad.md); [oddíly G kapitoly 3](03-statni-prispevky-prechodna-zaverecna.md)
 
@@ -341,7 +349,7 @@ Kapitoly obsahují **41 oddílů G. Protiargumenty a rizika**, **48 výslovných
 | Ústava a Listina | ústavní limit a měřítko výkladu; § 3 odst. 1 je konkretizací Listiny | „Věta druhá je zákonnou konkretizací čl. 2 odst. 3 Listiny a čl. 20 odst. 4 Listiny“ ([§ 3](01-uvod-vznik-zanik-soudni-ochrana.md)); „Ústavním rámcem omezení je čl. 20 odst. 3 a čl. 44 Listiny.“ ([§ 1](01-uvod-vznik-zanik-soudni-ochrana.md)) |
 | občanský zákoník | subsidiarita (právnické osoby, likvidace, zastoupení, dobrá víra) | „obecná úprava právnických osob v občanském zákoníku se uplatní subsidiárně, pokud tento zákon nestanoví jinak“ ([§ 3](01-uvod-vznik-zanik-soudni-ochrana.md)) |
 | soudní řád správní | procesní rámec řízení o stranách; odchylka u odkladného účinku | „Odchylkou od obecného pravidla soudního řádu správního, podle něhož podání žaloby nemá odkladný účinek, nestanoví-li zákon jinak (§ 73 odst. 1 s. ř. s.)“ ([§ 19l](02-hospodareni-urad.md)) |
-| občanský soudní řád | řízení podle § 16a; zastaralý odkaz § 8 odst. 5 | nesladěná poznámka 2a) — výkladová otázka ([§ 8](01-uvod-vznik-zanik-soudni-ochrana.md)) |
+| občanský soudní řád; zákon o zvláštních řízeních soudních | zastaralý odkaz § 8 odst. 5; řízení podle § 16a je podle karty [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md) statusovou věcí podle § 85 písm. a) z. ř. s. (nikoli řízením podle o.s.ř., jak uvádí text § 16a odst. 3) | nesladěná poznámka 2a) — výkladová otázka ([§ 8](01-uvod-vznik-zanik-soudni-ochrana.md)); „Návrh je proto třeba podat u krajského soudu a počítat s režimem zákona o zvláštních řízeních soudních“ ([§ 16a](01-uvod-vznik-zanik-soudni-ochrana.md)) |
 | zákon o trestní odpovědnosti právnických osob | omezení zániku strany | „podle jehož § 32 odst. 2 nemůže být právnická osoba, proti níž bylo zahájeno trestní stíhání, do jeho pravomocného skončení zrušena ani zaniknout“ ([§ 12](01-uvod-vznik-zanik-soudni-ochrana.md)) |
 | kontrolní řád, zákon o odpovědnosti za přestupky | subsidiární použití při dohledu a sankcích | „Na kontrolu se subsidiárně použije kontrolní řád“ ([§ 19g](02-hospodareni-urad.md)) |
 | volební zákony | důsledky pozastavení, volební účty, příspěvek na volební náklady | „Pozastavená strana nemůže podat kandidátní listinu“ ([§ 14](01-uvod-vznik-zanik-soudni-ochrana.md)); příspěvek na úhradu volebních nákladů upravuje § 85 zákona č. 247/1995 Sb. ([§ 20](03-statni-prispevky-prechodna-zaverecna.md)) |
@@ -393,7 +401,7 @@ U § 21a, § 22 a § 23 jsou kazuistiky zhuštěny do jednoho odstavce; struktur
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní karty rozhodnutí zatím nejsou; složka `judikatura/` se doplní strojově později a soubor zásad proto nemá odkaz na kartu s citovatelnou tezí;
+- místní judikatura je jen k § 16a: složka [judikatura/](judikatura/) obsahuje 2 karty Nejvyššího soudu (NS 27 Cdo 1495/2017, NS 27 Cdo 2228/2017), doplněné strojově při publikaci z místních zdrojů; ostatních 40 ustanovení místní kartu nemá a soubor zásad karty zmiňuje jen u zásady 5;
 - místní důvodová zpráva a novelizační předpisy nejsou součástí repozitáře — historický argument a účinnost novelizovaných paragrafů nelze ověřit místně;
 - unijní a mezinárodní vazby jsou zachyceny jen v rozsahu vnitrostátních ustanovení (§ 2 odst. 3, § 15 odst. 2, § 18 odst. 1 písm. o));
 - procesní cesta podle § 8 odst. 5 a forma úkonů Ministerstva financí podle § 20a jsou výslovně otevřené.
@@ -413,14 +421,14 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen výslovná mezera | ano | ano | nenalezeno | ano |
-| [Kapitola 1](01-uvod-vznik-zanik-soudni-ochrana.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | odkaz na 2 karty k § 16a | ano | ano | nenalezeno | ano |
+| [Kapitola 1](01-uvod-vznik-zanik-soudni-ochrana.md) | ano | ano | ano | 2 karty NS (jen § 16a) | ano | ano | ano | ano |
 | [Kapitola 2](02-hospodareni-urad.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3](03-statni-prispevky-prechodna-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál rozhodovací praxe nebyl nalezen v žádné ze 3 kapitol; úvod mezeru výslovně uvádí. Po strojovém doplnění složky `judikatura/` je nutné znovu projít vrstvy 9 a 10.
+- **Judikatura:** kapitola 1 obsahuje v oddílu § 16a 2 strojově doplněné karty Nejvyššího soudu (NS 27 Cdo 1495/2017, NS 27 Cdo 2228/2017); kapitoly 2 a 3 citaci rozhodnutí neobsahují. Vrstvy 9 a 10 jsou s kartami sladěny; při doplnění dalších karet je nutné je znovu projít.
 - **Důkazy a aplikace v úvodu:** úvod je přehledový a důkazní ani kazuistickou vrstvu neobsahuje; to odpovídá jeho funkci, kontrola se týká jen souladu shrnutí s kapitolami.
 - **Kapitola 3:** přechodná ustanovení (§ 21–23) jsou konzumována; jejich aplikační vrstva slouží dokazování historické kontinuity, nikoli současné praxi.
 
@@ -441,10 +449,10 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Působnost | registrace, adresát (strana, institut, třetí osoba, orgán), území, výluka § 1 odst. 3 | předpoklad, že politicky aktivní subjekt je stranou |
 | Pojmy | znaky, zápis × vyznačení, hraniční případ, následek kvalifikace | převzetí pojmu ze zastaralé poznámky pod čarou |
 | Modality | adresát, operátor, předmět, následek; vázanost × uvážení | záměna indikativu ukládajícího povinnost za prosté oprávnění |
-| Proces | příslušnost (MV, NSS, krajský a okresní soud, Úřad, Kolegium, MF), sled kroků, forma, lhůta, přezkum | seznam lhůt bez určení počátku a následku zmeškání |
+| Proces | příslušnost (MV, NSS, krajský soud — u § 16a jako statusová věc podle z. ř. s., Úřad, Kolegium, MF), sled kroků, forma, lhůta, přezkum | seznam lhůt bez určení počátku a následku zmeškání |
 | Důkazy | znak, skutečnost, důkaz, břemeno, doručení, nejistota | nahrazení přičitatelnosti jednání straně právním názorem |
 | Následky | primární norma, restituce, přestupek, statusový zásah, finanční důsledek, ochrana | dovození sankce tam, kde ji zákon nestanoví |
-| Judikatura | ratio, kontext, dosah, vývoj linie — po doplnění karet | domnělá judikatura bez místní karty |
+| Judikatura | ratio, kontext, dosah, vývoj linie — u § 16a z karet NS 27 Cdo 1495/2017 a NS 27 Cdo 2228/2017, jinde po doplnění karet | domnělá judikatura bez místní karty; přenos závěru karty k § 16a na jiné ustanovení |
 | Sporné výklady | nejsilnější varianty, praktické následky, postup obstojící v obou | potlačení výkladové otázky označené v kapitole |
 | Vazby | Listina, subsidiarita, speciální odchylka, odkaz na zvláštní zákon | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky, pravidlo, důkazy, subsumpce, výsledek, varianta | příklad bez výslovného naplnění znaků |
@@ -455,7 +463,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, výklad kapitoly, ústavní argument a vlastní syntézu vždy oddělte; citujte doslovně a s odkazem na soubor a paragraf.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako text zákona, převažující výklad kapitoly, výkladovou otázku nebo autorský návrh.
-4. Dokud složka `judikatura/` neobsahuje karty, neformulujte žádný závěr jako judikatorní; po jejich doplnění nepřenášejte závěr mimo rozhodné znění, skutkový základ a procesní situaci.
+4. Jako judikatorní formulujte jen závěry opřené o místní kartu (nyní jen k § 16a); závěr karty nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat, a u restriktivního či extenzivního výkladu uveďte, ke které ose účelu se vztahuje.
 
 ## Kontrola před publikací
@@ -463,7 +471,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění, zastaralé poznámky a přechodná ustanovení jsou označena.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy a na správný orgán.
-- [ ] Judikatorní mezera je viditelná a žádné tvrzení nepředstírá rozhodovací praxi.
+- [ ] Judikatorní mezera mimo § 16a je viditelná a žádné tvrzení nepředstírá rozhodovací praxi, kterou místní karty neobsahují.
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.

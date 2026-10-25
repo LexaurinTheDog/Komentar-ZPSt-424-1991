@@ -110,7 +110,7 @@ Odst. 4 zachovává zvláštní úpravy, např. § 85 odst. 3 zákona o soudech 
 
 **4. Subsumpce.** Členství je přípustné (občan EU, nad 18 let, přechodný pobyt). Funkce statutárního orgánu je mu však zákonem výslovně odepřena.
 
-**5. Řešení.** Volba je v rozporu se zákonem; ministerstvo by nemělo změnu vyznačit (§ 9 odst. 3 písm. b), § 10). Člen strany se může domáhat určení nesouladu rozhodnutí se zákonem podle § 16a.
+**5. Řešení.** Volba je v rozporu se zákonem; ministerstvo by nemělo změnu vyznačit (§ 9 odst. 3 písm. b), § 10). Člen strany se může podle § 16a obrátit na krajský soud, který při zjištění rozporu se zákonem zpravidla vysloví neplatnost rozhodnutí (karta NS 27 Cdo 1495/2017).
 
 **6. Varianty.** Pokud tento občan nabude české státní občanství, omezení odpadá. Bude-li jen členem širšího výboru bez statutární funkce, omezení nedopadá.
 
@@ -998,15 +998,17 @@ Pozastavit činnost nebo rozpustit stranu **nelze** od vyhlášení celostátní
 
 #### Předmět a legitimace (odst. 1)
 
-§ 16a zakládá **soudní ochranu člena** proti rozhodnutím orgánů strany. Předmětem jsou jen rozhodnutí, která se **dotýkají skutečností vyznačovaných v rejstříku** (§ 9) — typicky volba či odvolání statutárního orgánu a změna způsobu jednání [§ 9 odst. 3 písm. b)], zrušení strany a vstup do likvidace [písm. d) a e)]. Jiná vnitrostranická rozhodnutí (vyloučení člena, sestavení kandidátky, disciplinární opatření) tímto ustanovením chráněna nejsou; zda a jak je lze přezkoumat podle obecných předpisů, je výkladovou otázkou. Aktivně legitimován je **člen** strany. Lhůta **6 měsíců od přijetí rozhodnutí** je objektivní; soud určuje, zda je rozhodnutí **v souladu se zákonem a stanovami**.
+§ 16a zakládá **soudní ochranu člena** proti rozhodnutím orgánů strany. Předmětem jsou jen rozhodnutí, která se **dotýkají skutečností vyznačovaných v rejstříku** (§ 9) — typicky volba či odvolání statutárního orgánu a změna způsobu jednání [§ 9 odst. 3 písm. b)], zrušení strany a vstup do likvidace [písm. d) a e)]. Doslovné znění tak míří na rejstříkové údaje; místní karta **NS 27 Cdo 2228/2017** (kat. A) však řízení podle § 16a vztahuje i na návrh, „jímž se dotčený člen domáhá soudní ochrany proti rozhodnutí orgánu politické strany o vyloučení člena (o zrušení jeho členství)“. Ochranu proti vyloučení proto nelze z § 16a vylučovat. Zda stejnou cestou lze napadnout i jiná vnitrostranická rozhodnutí bez vazby na rejstřík (sestavení kandidátky, disciplinární opatření), místní karty neřeší; jde o výkladovou otázku. Podle karty **NS 27 Cdo 1495/2017** (kat. A) přitom § 16a odst. 1 „brání tomu, aby byla platnost rozhodnutí orgánu politické strany (hnutí) posuzována v jiném řízení“, a to ani jako předběžná otázka, neurčuje-li zvláštní předpis jinak. Aktivně legitimován je **člen** strany. Lhůta **6 měsíců od přijetí rozhodnutí** je objektivní; soud určuje, zda je rozhodnutí **v souladu se zákonem a stanovami**.
 
 #### Vyčerpání vnitrostranické nápravy (odst. 2)
 
-Nejde-li o zrušení strany, je návrh přípustný jen tehdy, pokud **rozhodčí orgán** (povinný orgán podle § 6 odst. 2 písm. b) bodu 6) žádosti člena o nápravu **nevyhověl** nebo o ní **nerozhodl do 30 dnů** od jejího podání. Zákon nestanoví, že by žádost o nápravu stavěla běh šestiměsíční lhůty podle odst. 1; vnitřní nápravu je třeba uplatnit tak, aby lhůta k návrhu soudu zůstala zachována.
+Nejde-li o zrušení strany, je návrh přípustný jen tehdy, pokud **rozhodčí orgán** (povinný orgán podle § 6 odst. 2 písm. b) bodu 6) žádosti člena o nápravu **nevyhověl** nebo o ní **nerozhodl do 30 dnů** od jejího podání. Podle karty NS 27 Cdo 1495/2017 je tento požadavek „hmotněprávní podmínkou uplatnění práva na soudní ochranu“, nikoli jen procesní podmínkou řízení. Zákon nestanoví, že by žádost o nápravu stavěla běh šestiměsíční lhůty podle odst. 1; vnitřní nápravu je třeba uplatnit tak, aby lhůta k návrhu soudu zůstala zachována.
 
 #### Procesní režim (odst. 3 a 4)
 
-Věcně příslušný je **okresní soud**; postupuje se podle **občanského soudního řádu** (zákon o zvláštních řízeních soudních tuto agendu neupravuje, jde tedy o řízení podle o.s.ř.). Navrhovatel zašle **opis návrhu** s vyznačeným dnem převzetí soudem ministerstvu; soud zašle ministerstvu **opis pravomocného rozhodnutí**. Ministerstvo tak má informaci o sporu o údaj, který vyznačuje, a po rozhodnutí může rejstřík uvést do souladu se skutečností. Rozhodnutí je **určovací**; zákon neupravuje, zda se jím rozhodnutí orgánu ruší — důsledky pro vyznačený údaj je třeba dovodit z výroku (výkladová otázka).
+Doslovné znění odst. 1 a 3 odkazuje na **okresní soud** a **občanský soudní řád**. Místní karta **NS 27 Cdo 1495/2017** (kat. A) však uvádí, že řízení podle § 16a odst. 1 „je řízením ve statusových věcech právnických osob ve smyslu § 85 písm. a) z. ř. s., v němž jsou v prvním stupni věcně příslušné krajské soudy [§ 3 odst. 2 písm. a) z. ř. s.]“. Návrh je proto třeba podat u **krajského soudu** a počítat s režimem zákona o zvláštních řízeních soudních; slova zákona o okresním soudu a o.s.ř. nelze v otázce příslušnosti a procesního režimu číst izolovaně. Navrhovatel zašle **opis návrhu** s vyznačeným dnem převzetí soudem ministerstvu; soud zašle ministerstvu **opis pravomocného rozhodnutí**. Ministerstvo tak má informaci o sporu o údaj, který vyznačuje, a po rozhodnutí může rejstřík uvést do souladu se skutečností.
+
+Obsah výroku: zákon mluví o „určení“, zda je rozhodnutí v souladu se zákonem a stanovami. Podle karty NS 27 Cdo 1495/2017 soud při zjištění rozporu „vysloví (zpravidla) jeho neplatnost“. Podle karty **NS 27 Cdo 2228/2017** soud u vyloučení člena vysloví neplatnost všech rozhodnutí orgánů strany o vyloučení (popř. za analogického použití § 242 o. z. rozhodne, že vyloučení je neplatné). Neplatnost jen „konečného“ rozhodnutí lze vyslovit, jen plyne-li ze stanov, že tím pozbývají účinky i všechna předchozí rozhodnutí.
 
 #### F. Kazuistika
 
@@ -1014,27 +1016,30 @@ Věcně příslušný je **okresní soud**; postupuje se podle **občanského so
 
 **2. Právní otázka.** Může se člen obrátit na soud a dokdy?
 
-**3. Použitelné právo.** *Komentované ustanovení:* § 16a odst. 1 až 3. *Související ustanovení:* § 6 odst. 2 písm. b) bod 6, § 9 odst. 3 písm. b), § 10. *Související předpisy:* občanský soudní řád.
+**3. Použitelné právo.** *Komentované ustanovení:* § 16a odst. 1 až 3. *Související ustanovení:* § 6 odst. 2 písm. b) bod 6, § 9 odst. 3 písm. b), § 10. *Související předpisy:* zákon o zvláštních řízeních soudních (§ 3 odst. 2 písm. a), § 85 písm. a) podle karty NS 27 Cdo 1495/2017), občanský soudní řád.
 
 **4. Subsumpce.** Rozhodnutí se dotýká vyznačovaného údaje (osoba statutárního orgánu). Rozhodčí orgán nerozhodl do 30 dnů (9. 4.). Šestiměsíční lhůta od 1. 3. trvá.
 
-**5. Řešení.** Člen podá návrh okresnímu soudu nejpozději do 1. 9. a opis s vyznačeným dnem převzetí zašle ministerstvu. Soud určí, zda je odvolání v souladu se stanovami; po pravomocném rozhodnutí zašle opis ministerstvu.
+**5. Řešení.** Člen podá návrh krajskému soudu (statusová věc podle z. ř. s., karta NS 27 Cdo 1495/2017) nejpozději do 1. 9. a opis s vyznačeným dnem převzetí zašle ministerstvu. Shledá-li soud rozpor se stanovami, vysloví zpravidla neplatnost odvolání; po pravomocném rozhodnutí zašle opis ministerstvu.
 
-**6. Varianty.** Jde-li o rozhodnutí o zrušení strany, odst. 2 se neuplatní — člen se může obrátit přímo na soud.
+**6. Varianty.** Jde-li o rozhodnutí o zrušení strany, odst. 2 se neuplatní — člen se může obrátit přímo na soud. Jde-li o vyloučení člena, uplatní se § 16a také (karta NS 27 Cdo 2228/2017); návrh musí směřovat proti všem rozhodnutím orgánů strany o vyloučení, nevyplývá-li ze stanov opak.
 
 #### G. Protiargumenty a rizika
 
 - *„Soud nesmí zasahovat do vnitřních věcí strany.“* Neutralizace: § 16a výslovně svěřuje soudu přezkum souladu se zákonem a stanovami; zásah je omezen na vyznačované skutečnosti.
-- *Riziko:* zmeškání šestiměsíční lhůty; podání bez předchozí žádosti rozhodčímu orgánu vede k nepřípustnosti.
+- *„Příslušný je okresní soud, jak říká text zákona.“* Neutralizace: podle karty NS 27 Cdo 1495/2017 jde o statusovou věc podle § 85 písm. a) z. ř. s. s věcnou příslušností krajských soudů.
+- *Riziko:* zmeškání šestiměsíční lhůty; chybějící předchozí žádost rozhodčímu orgánu je podle karty NS 27 Cdo 1495/2017 nesplněním hmotněprávní podmínky práva na soudní ochranu; pokus posoudit platnost rozhodnutí orgánu strany v jiném řízení (např. podle § 80 o. s. ř.) neobstojí.
 
 #### H. Praktický závěr
 
-§ 16a zakládá určovací žalobu člena proti rozhodnutím orgánů strany o vyznačovaných skutečnostech, s povinným vyčerpáním vnitřní nápravy (mimo zrušení strany).
+§ 16a zakládá soudní ochranu člena proti rozhodnutím orgánů strany o vyznačovaných skutečnostech a podle místní judikatury i proti vyloučení; řízení vede krajský soud jako statusovou věc podle z. ř. s., soud při rozporu zpravidla vysloví neplatnost, vnitřní nápravu je nutné vyčerpat (mimo zrušení strany).
 
 **Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Ověřit, že rozhodnutí se týká skutečnosti vyznačované v rejstříku.
 - [ ] Hlídat 6měsíční lhůtu od přijetí rozhodnutí.
 - [ ] Mimo zrušení strany nejprve podat žádost rozhodčímu orgánu (30 dnů).
+- [ ] Podat návrh u krajského soudu (statusová věc podle z. ř. s.).
+- [ ] U vyloučení napadnout všechna rozhodnutí orgánů strany o vyloučení.
 - [ ] Zaslat opis návrhu ministerstvu.
 
 **Typicky rozhodné důkazy / podklady:** stanovy, usnesení orgánu, zápis z jednání, žádost rozhodčímu orgánu a doklad o jejím podání.

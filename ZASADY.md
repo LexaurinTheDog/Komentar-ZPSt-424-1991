@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v kapitolách [01-uvod-vznik-zanik-soudni-ochrana.md](01-uvod-vznik-zanik-soudni-ochrana.md), [02-hospodareni-urad.md](02-hospodareni-urad.md) a [03-statni-prispevky-prechodna-zaverecna.md](03-statni-prispevky-prechodna-zaverecna.md) a výklad v nich obsažený; úvodní souvislosti shrnuje [00-uvod.md](00-uvod.md). Repozitář **neobsahuje místní judikaturu** k zákonu č. 424/1991 Sb. (lokální materiály k němu neobsahují judikatorní karty), a zásady níže proto nejsou dovozeny z judikatorních tezí, nýbrž z doslovného znění zákona, jeho systematiky, ústavního rámce (čl. 5 Ústavy, čl. 20 a 22 Listiny) a výkladu v kapitolách. Žádná citace v tomto souboru není citací soudního rozhodnutí a soubor neuvádí žádné spisové značky.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona citované v kapitolách [01-uvod-vznik-zanik-soudni-ochrana.md](01-uvod-vznik-zanik-soudni-ochrana.md), [02-hospodareni-urad.md](02-hospodareni-urad.md) a [03-statni-prispevky-prechodna-zaverecna.md](03-statni-prispevky-prechodna-zaverecna.md) a výklad v nich obsažený; úvodní souvislosti shrnuje [00-uvod.md](00-uvod.md). Složka [judikatura/](judikatura/) obsahuje **2 karty Nejvyššího soudu** (kat. A), obě k § 16a: [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md) z 27. 2. 2019 a [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md) z 26. 3. 2019. Karty byly doplněny strojově při publikaci z místních zdrojů; ostatní ustanovení zákona místní judikaturu nemají. Zásady níže proto nejsou dovozeny z judikatorních tezí, nýbrž z doslovného znění zákona, jeho systematiky, ústavního rámce (čl. 5 Ústavy, čl. 20 a 22 Listiny) a výkladu v kapitolách; karty se promítají jen do zásady 5 (soudní ochrana člena podle § 16a), a to prostřednictvím výkladu § 16a v kapitole 01. Citace v tomto souboru jsou citacemi kapitol, nikoli citacemi soudních rozhodnutí.
 
 Každá zásada je doložena **doslovnými citacemi** z kapitol tohoto repozitáře — buď ze znění zákona v citačním bloku, nebo z oddílu `**Výklad:**` — s uvedením souboru a paragrafu. Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -157,11 +157,17 @@ Znění § 16a odst. 2 ([01-uvod-vznik-zanik-soudni-ochrana.md](01-uvod-vznik-za
 
 > „Nejde-li o zrušení strany a hnutí, lze návrh podle odstavce 1 podat, jen pokud rozhodčí orgán strany a hnutí nevyhověl žádosti člena o zjednání nápravy anebo o ní nerozhodl do 30 dnů ode dne jejího podání.“
 
-Komentář k § 16a přitom upozorňuje na omezený předmět této ochrany ([01-uvod-vznik-zanik-soudni-ochrana.md](01-uvod-vznik-zanik-soudni-ochrana.md), § 16a):
+Komentář k § 16a vychází z doslovného vymezení předmětu ochrany ([01-uvod-vznik-zanik-soudni-ochrana.md](01-uvod-vznik-zanik-soudni-ochrana.md), § 16a):
 
 > „Předmětem jsou jen rozhodnutí, která se dotýkají skutečností vyznačovaných v rejstříku (§ 9)“
 
-Praktickým důsledkem zásady je, že člen strany musí nejprve využít vnitrostranický rozhodčí orgán (s výjimkou rozhodnutí o zrušení strany) a přitom hlídat objektivní šestiměsíční lhůtu k návrhu soudu; jiná vnitrostranická rozhodnutí (vyloučení, sestavení kandidátky) § 16a nechrání a jejich přezkum je výkladovou otázkou.
+S odkazem na kartu [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md) však tento okruh rozšiřuje na vyloučení člena a otevřenou ponechává jen otázku dalších rozhodnutí bez vazby na rejstřík (tamtéž):
+
+> „Ochranu proti vyloučení proto nelze z § 16a vylučovat.“
+
+> „Zda stejnou cestou lze napadnout i jiná vnitrostranická rozhodnutí bez vazby na rejstřík (sestavení kandidátky, disciplinární opatření), místní karty neřeší; jde o výkladovou otázku.“
+
+Praktickým důsledkem zásady je, že člen strany musí nejprve využít vnitrostranický rozhodčí orgán (s výjimkou rozhodnutí o zrušení strany) a přitom hlídat objektivní šestiměsíční lhůtu k návrhu soudu. Podle karty [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md), z níž kapitola 01 vychází, je vyčerpání nápravy u rozhodčího orgánu hmotněprávní podmínkou práva na soudní ochranu, návrh se podává krajskému soudu jako statusová věc podle zákona o zvláštních řízeních soudních a soud při rozporu zpravidla vysloví neplatnost rozhodnutí. Ochrana podle § 16a se vztahuje i na vyloučení člena; přezkum sestavení kandidátky či disciplinárních opatření zůstává výkladovou otázkou.
 
 ## 6. Transparentnost a dohledatelnost financování
 

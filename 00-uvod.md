@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2026** (dokument e-Sbírky `SB-1991-00424_2026-01-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Zákon č. 424/1991 Sb. byl od svého přijetí mnohokrát novelizován — nejvýrazněji v oblasti financování (transparentní zvláštní účet, limit darů, zákaz zahraničních a netransparentních dárců, politické instituty) a zřízením Úřadu pro dohled nad hospodařením politických stran a politických hnutí. Komentář vychází ze znění účinného k 1. 1. 2026, ze systematiky zákona a z ústavního rámce (čl. 5 Ústavy, čl. 20 a 22 Listiny základních práv a svobod). Lokální materiály repozitáře neobsahují judikatorní karty k tomuto zákonu; komentář proto **neuvádí konkrétní soudní rozhodnutí ani spisové značky** a tam, kde je výklad sporný, výslovně označuje **výkladovou otázku**. Kdekoli komentář v dalších souborech (ZASADY.md, PRAVNI-MODALITY.md) odkazuje na výklad, jde o výklad dovozený z textu zákona a z kapitol tohoto repozitáře, nikoli o citaci rozhodovací praxe.
+> **Metodická poznámka:** Zákon č. 424/1991 Sb. byl od svého přijetí mnohokrát novelizován — nejvýrazněji v oblasti financování (transparentní zvláštní účet, limit darů, zákaz zahraničních a netransparentních dárců, politické instituty) a zřízením Úřadu pro dohled nad hospodařením politických stran a politických hnutí. Komentář vychází ze znění účinného k 1. 1. 2026, ze systematiky zákona a z ústavního rámce (čl. 5 Ústavy, čl. 20 a 22 Listiny základních práv a svobod). Složka [judikatura/](judikatura/) obsahuje **2 karty Nejvyššího soudu** (kat. A), obě k § 16a: [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md) z 27. 2. 2019 a [NS 27 Cdo 2228/2017](judikatura/NS-27-Cdo-2228-2017.md) z 26. 3. 2019. Karty byly doplněny strojově při publikaci z místních zdrojů a promítnuty do výkladu § 16a v kapitole 01 (příslušnost krajského soudu, statusová věc podle zákona o zvláštních řízeních soudních, výrok o neplatnosti, ochrana proti vyloučení člena). Ostatní ustanovení zákona místní judikaturu nemají a jejich autorský výklad z karet nevychází; je dovozen z textu zákona, systematiky a ústavního rámce a tam, kde je sporný, je výslovně označen jako **výkladová otázka**.
 
 ---
 
@@ -64,7 +64,7 @@ Strana a hnutí mají za zákonných podmínek **veřejnoprávní nárok** na st
 
 - **Ústava a Listina** — čl. 5 Ústavy, čl. 20 odst. 2 až 4, čl. 22 a čl. 44 Listiny tvoří ústavní rámec a interpretační měřítko celé úpravy.
 - **Soudní řád správní** — řízení ve věcech politických stran a hnutí (§ 4 odst. 2 písm. b), § 94 až 96 s.ř.s.); některé starší procesní formulace zákona (§ 8 odst. 5 s odkazem na § 250m o.s.ř.) s ním nejsou sladěny, což kapitola 01 označuje za výkladovou otázku.
-- **Občanský soudní řád** — řízení o soudní ochraně člena podle § 16a před okresním soudem.
+- **Zákon o zvláštních řízeních soudních a občanský soudní řád** — řízení o soudní ochraně člena podle § 16a. Text § 16a odkazuje na okresní soud a občanský soudní řád; podle karty [NS 27 Cdo 1495/2017](judikatura/NS-27-Cdo-1495-2017.md) jde o statusovou věc právnických osob podle § 85 písm. a) z. ř. s., v níž jsou v prvním stupni věcně příslušné krajské soudy (blíže kapitola 01, § 16a).
 - **Občanský zákoník** — subsidiárně obecná úprava právnických osob a likvidace; vymezení podnikání.
 - **Zákon o účetnictví a zákon o auditorech** — účetnictví stran a povinné ověření účetní závěrky (§ 17 odst. 9 a 10, § 19h odst. 1).
 - **Zákon o platebním styku** — pojem jedinečného identifikátoru účtu a postavení poskytovatele platebních služeb u zvláštního účtu.
@@ -94,7 +94,7 @@ Strana a hnutí mají za zákonných podmínek **veřejnoprávní nárok** na st
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** ve znění k 1. 1. 2026 (bez elips), pod ním oddíl `**Výklad:**` členěný podle odstavců a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr.
 - Zastaralé poznámky pod čarou (např. odkazy na zrušený zákon č. 76/1959 Sb., obchodní zákoník nebo dřívější zákon o platebním styku) komentář výslovně označuje a uvádí platnou úpravu, která je nahradila.
-- Komentář **neobsahuje judikaturu** se spisovými značkami, neboť lokální materiály repozitáře k zákonu judikatorní karty neobsahují; místa, kde text zákona připouští více výkladů, jsou označena jako **výkladová otázka** s uvedením argumentů pro jednotlivé varianty.
+- Judikatura je v komentáři uvedena jen u § 16a, a to ze 2 karet Nejvyššího soudu ve složce [judikatura/](judikatura/) (NS 27 Cdo 1495/2017, NS 27 Cdo 2228/2017), doplněných strojově při publikaci z místních zdrojů. U ostatních ustanovení místní judikatura není a komentář u nich žádná rozhodnutí neuvádí; místa, kde text zákona připouští více výkladů, jsou označena jako **výkladová otázka** s uvedením argumentů pro jednotlivé varianty.
 - Soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) pracují výhradně s doslovnými citacemi z kapitol 01–03; nic v kapitolách nenahrazují ani nemění.
 
 ---
